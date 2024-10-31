@@ -1,5 +1,5 @@
-node_modules
-.temp
-dist
-yarn.lock
-
+_site
+.DS_Store
+*.swp
+.sass-cache
+*~
